@@ -1,0 +1,1174 @@
+===== index.html =====
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>庭藤｜岩手県奥州市の庭木剪定・年間管理</title>
+
+    <meta
+        name="description"
+        content="岩手県奥州市で庭木の剪定・年間管理を行う庭藤。東京・京都で修行を積んだ職人が、一軒一軒のお庭を丁寧にお手入れします。"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ====================
+         ヘッダー
+    ===================== -->
+    <header class="header">
+
+        <div class="header-inner">
+
+            <div class="logo">
+                <img src="images/logo/logo.png" alt="庭藤">
+            </div>
+
+            <a href="tel:0197XXXXXXXX" class="header-tel">
+                ☎ お電話はこちら
+            </a>
+
+        </div>
+
+    </header>
+
+
+    <main>
+
+        <!-- ====================
+             ファーストビュー
+        ===================== -->
+        <section class="hero">
+
+            <div class="hero-content">
+
+                <p class="hero-area">
+                    岩手県奥州市｜庭木の剪定・年間管理
+                </p>
+
+                <h1>
+                    庭をきれいにする。<br>
+                    その先まで、付き合う。
+                </h1>
+
+                <p class="hero-text">
+                    東京・京都で修行を積み、<br>
+                    奥州市で40年以上。
+                </p>
+
+                <a href="tel:0197XXXXXXXX" class="cta-button">
+                    お電話でご相談・お見積もり
+                </a>
+
+                <p class="free-text">
+                    お見積もり無料
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- ====================
+             悩み
+        ===================== -->
+        <section class="section problems">
+
+            <div class="section-inner">
+
+                <p class="section-label">こんなお困りごとはありませんか？</p>
+
+                <h2>
+                    庭のこと、<br>
+                    どうしよう。
+                </h2>
+
+                <ul class="problem-list">
+
+                    <li>庭木が伸びすぎてしまった</li>
+                    <li>松の手入れをしてほしい</li>
+                    <li>毎年、庭の管理をお願いしたい</li>
+                    <li>自分で庭の手入れをするのが難しくなった</li>
+                    <li>以前頼んでいた植木屋さんができなくなった</li>
+                    <li>庭の手入れを、どこに頼めばいいかわからない</li>
+
+                </ul>
+
+            </div>
+
+        </section>
+
+
+        <!-- ====================
+             庭藤について
+        ===================== -->
+        <section class="section about">
+
+            <div class="section-inner">
+
+                <p class="section-label">庭藤について</p>
+
+                <h2>
+                    奥州市で、<br>
+                    40年以上。
+                </h2>
+
+                <p class="lead">
+                    庭藤は、庭木の剪定を中心に、
+                    個人のお客様のお庭をお手入れしています。
+                </p>
+
+                <div class="history">
+
+                    <div class="history-item">
+                        <span>学び</span>
+                        <strong>弘前大学 農学部</strong>
+                    </div>
+
+                    <div class="history-item">
+                        <span>修行</span>
+                        <strong>東京・京都</strong>
+                    </div>
+
+                    <div class="history-item">
+                        <span>独立</span>
+                        <strong>岩手・奥州市</strong>
+                    </div>
+
+                    <div class="history-item">
+                        <span>現在</span>
+                        <strong>約80軒を年間管理</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ====================
+             強み
+        ===================== -->
+        <section class="section strength">
+
+            <div class="section-inner">
+
+                <p class="section-label">庭藤の仕事</p>
+
+                <h2>
+                    早く、きれいに。
+                </h2>
+
+                <p class="lead">
+                    庭藤が大切にしているのは、
+                    「スピード」と「質」。
+                </p>
+
+
+                <div class="strength-card">
+
+                    <div class="strength-number">01</div>
+
+                    <h3>松の剪定</h3>
+
+                    <p>
+                        長年の経験を活かし、
+                        松の樹形を見ながら、
+                        必要な枝を判断して剪定します。
+                    </p>
+
+                </div>
+
+
+                <div class="strength-card">
+
+                    <div class="strength-number">02</div>
+
+                    <h3>庭木の剪定</h3>
+
+                    <p>
+                        庭全体のバランスを見ながら、
+                        一本一本の木を整えていきます。
+                    </p>
+
+                </div>
+
+
+                <div class="strength-card">
+
+                    <div class="strength-number">03</div>
+
+                    <h3>年間管理</h3>
+
+                    <p>
+                        一度きりではなく、
+                        毎年のお庭のお手入れも承っています。
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ====================
+             実績
+        ===================== -->
+        <section class="section numbers">
+
+            <div class="section-inner">
+
+                <p class="section-label">長く続いてきた理由</p>
+
+                <div class="number-grid">
+
+                    <div class="number-item">
+                        <strong>40<span>年以上</span></strong>
+                        <p>造園の仕事</p>
+                    </div>
+
+                    <div class="number-item">
+                        <strong>約80<span>軒</span></strong>
+                        <p>現在の年間管理</p>
+                    </div>
+
+                    <div class="number-item">
+                        <strong>400〜500<span>軒</span></strong>
+                        <p>これまでに関わった個人宅の目安</p>
+                    </div>
+
+                </div>
+
+                <p class="note">
+                    ※個人宅数はこれまでの経験をもとにした概算です。
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- ====================
+             お客様の声
+        ===================== -->
+        <section class="section voices">
+
+            <div class="section-inner">
+
+                <p class="section-label">お客様からいただいた言葉</p>
+
+                <h2>
+                    庭が変わると、<br>
+                    気持ちも少し変わる。
+                </h2>
+
+
+                <div class="voice-list">
+
+                    <blockquote>
+                        「気持ちいい。心が晴れた。」
+                    </blockquote>
+
+                    <blockquote>
+                        「綺麗になった。」
+                    </blockquote>
+
+                    <blockquote>
+                        「これでお盆が越せる。」
+                    </blockquote>
+
+                    <blockquote>
+                        「来年もよろしくお願いします。」
+                    </blockquote>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ====================
+             代表
+        ===================== -->
+        <section class="section owner">
+
+            <div class="section-inner">
+
+                <p class="section-label">庭藤の主人</p>
+
+                <div class="owner-photo">
+                    <img src="images/owner.jpg" alt="庭藤 店主">
+                </div>
+
+                <h2>
+                    「お客さんが待ってるうちは、<br>
+                    面倒をみたい。」
+                </h2>
+
+                <p class="owner-text">
+                    弘前大学農学部を卒業後、
+                    東京・京都で造園の修行。
+                </p>
+
+                <p class="owner-text">
+                    その後、地元岩手で独立し、
+                    一軒一軒のお庭を訪ねてきました。
+                </p>
+
+                <p class="owner-text">
+                    開業当初からのお客様との付き合いも、
+                    今も続いています。
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- ====================
+             施工事例
+        ===================== -->
+         <section class="section works">
+
+         <div class="section-inner">
+
+             <p class="section-label">施工事例</p>
+
+             <h2>庭の変化</h2>
+
+             <div class="work-grid">
+
+                 <div class="work-card">
+                     <div class="work-image">
+                         <img src="images/4B96DB0E-0729-4A58-ACB8-472FE8A807C9_1_105_c.jpeg" alt="庭木の剪定">
+                     </div>
+                     <p>庭木の剪定</p>
+                 </div>
+
+                 <div class="work-card">
+                     <div class="work-image work-video">
+                         <video autoplay muted loop playsinline>
+                             <source src="images/works/pine-before-after.mp4" type="video/mp4">
+                         </video>
+                     </div>
+                     <p>松の剪定</p>
+                 </div>
+
+                 <div class="work-card">
+                     <div class="work-image">
+                         <img src="images/525B2BDC-0C7F-4617-9A23-50FE477A79D8_1_201_a.jpg" alt="年間管理">
+                     </div>
+                     <p>年間管理</p>
+                 </div>
+
+             </div>
+
+         </div>
+
+     </section>
+
+
+        <!-- ====================
+             FAQ
+        ===================== -->
+        <section class="section faq">
+
+            <div class="section-inner">
+
+                <p class="section-label">よくあるご質問</p>
+
+                <h2>FAQ</h2>
+
+                <details>
+                    <summary>見積もりは無料ですか？</summary>
+                    <p>
+                        はい。まずはお電話でご相談ください。
+                        お庭の状態を確認したうえでお見積もりします。
+                    </p>
+                </details>
+
+                <details>
+                    <summary>個人の家でもお願いできますか？</summary>
+                    <p>
+                        はい。個人のお庭を中心に承っています。
+                    </p>
+                </details>
+
+                <details>
+                    <summary>毎年お願いすることはできますか？</summary>
+                    <p>
+                        はい。年間を通したお庭の管理も承っています。
+                    </p>
+                </details>
+
+            </div>
+
+        </section>
+
+
+        <!-- ====================
+             最終CTA
+        ===================== -->
+        <section class="section final-cta">
+
+            <div class="section-inner">
+
+                <p class="section-label">まずはお気軽に</p>
+
+                <h2>
+                    お庭のことで気になることがあれば、<br>
+                    お電話ください。
+                </h2>
+
+                <a href="tel:0197XXXXXXXX" class="cta-button">
+                    ☎ お電話で相談する
+                </a>
+
+                <p class="free-text">
+                    お見積もり無料
+                </p>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- ====================
+         フッター
+    ===================== -->
+    <footer class="footer">
+
+        <div class="footer-inner">
+
+            <div class="logo">
+                <span>庭</span>藤
+            </div>
+
+            <p>
+                岩手県奥州市<br>
+                庭木の剪定・年間管理
+            </p>
+
+            <p class="copyright">
+                © 庭藤
+            </p>
+
+        </div>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+===== style.css =====
+/* ========================================
+   庭藤 LP v0.1
+   style.css
+======================================== */
+
+
+/* ========================================
+   1. 基本設定
+======================================== */
+
+:root {
+    --green: #294a36;
+    --green-light: #3f624b;
+    --cream: #f7f5ef;
+    --white: #ffffff;
+    --black: #222222;
+    --gray: #666666;
+    --line: #dedbd2;
+    --gold: #a88b4a;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    color: var(--black);
+    background: var(--cream);
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Hiragino Kaku Gothic ProN",
+        "Yu Gothic",
+        "YuGothic",
+        sans-serif;
+    line-height: 1.8;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+/* ========================================
+   2. 共通
+======================================== */
+
+.section {
+    padding: 80px 20px;
+}
+
+.section-inner {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.section-label {
+    margin: 0 0 16px;
+    color: var(--gold);
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+}
+
+h1,
+h2,
+h3 {
+    margin-top: 0;
+    line-height: 1.35;
+}
+
+h2 {
+    margin-bottom: 30px;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.lead {
+    margin: 0;
+    font-size: 1rem;
+    color: #444;
+}
+
+
+/* ========================================
+   3. ヘッダー
+======================================== */
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(247, 245, 239, 0.96);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 16px 20px;
+}
+
+.logo {
+    color: var(--green);
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+}
+
+.logo span {
+    color: var(--gold);
+}
+
+.logo img {
+    height: 55px;
+    width: auto;
+}
+
+.header-tel {
+    padding: 8px 12px;
+    color: var(--white);
+    background: var(--green);
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+
+/* ========================================
+   4. ファーストビュー
+======================================== */
+
+.hero {
+    min-height: 82vh;
+    display: flex;
+    align-items: center;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(20, 35, 25, 0.78) 0%,
+            rgba(20, 35, 25, 0.58) 45%,
+            rgba(20, 35, 25, 0.38) 100%
+        ),
+        url("images/works/snow-garden.jpeg");
+
+    background-size: cover;
+    background-position: center;
+
+    color: var(--white);
+}
+
+.hero-content {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 100px 40px;
+}
+.hero-area {
+    margin: 0 0 24px;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+}
+
+.hero h1 {
+    margin-bottom: 28px;
+    font-size: clamp(2.3rem, 8vw, 4.5rem);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+}
+
+.hero-text {
+    margin-bottom: 36px;
+    font-size: 1rem;
+    line-height: 2;
+}
+
+.cta-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 56px;
+    padding: 14px 28px;
+
+    color: var(--white);
+    background: var(--gold);
+
+    border-radius: 4px;
+
+    font-weight: bold;
+    letter-spacing: 0.04em;
+
+    transition:
+        transform 0.2s ease,
+        opacity 0.2s ease;
+}
+
+.cta-button:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+.free-text {
+    margin: 12px 0 0;
+    font-size: 0.8rem;
+}
+
+
+/* ========================================
+   5. お困りごと
+======================================== */
+
+.problems {
+    background: var(--white);
+}
+
+.problem-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.problem-list li {
+    position: relative;
+
+    padding: 16px 0 16px 30px;
+
+    border-bottom: 1px solid var(--line);
+}
+
+.problem-list li::before {
+    content: "✓";
+
+    position: absolute;
+    left: 0;
+
+    color: var(--gold);
+    font-weight: bold;
+}
+
+
+/* ========================================
+   6. 庭藤について
+======================================== */
+
+.about {
+    background: var(--cream);
+}
+
+.history {
+    margin-top: 40px;
+    border-top: 1px solid var(--line);
+}
+
+.history-item {
+    display: flex;
+    gap: 20px;
+
+    padding: 18px 0;
+
+    border-bottom: 1px solid var(--line);
+}
+
+.history-item span {
+    width: 50px;
+
+    color: var(--gold);
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.history-item strong {
+    font-weight: 600;
+}
+
+
+/* ========================================
+   7. 庭藤の仕事
+======================================== */
+
+.strength {
+    background: var(--green);
+    color: var(--white);
+}
+
+.strength .lead {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.strength-card {
+    margin-top: 24px;
+    padding: 30px;
+
+    background: rgba(255, 255, 255, 0.07);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.strength-number {
+    margin-bottom: 8px;
+
+    color: var(--gold);
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+.strength-card h3 {
+    margin-bottom: 12px;
+    font-size: 1.3rem;
+}
+
+.strength-card p {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.82);
+}
+
+
+/* ========================================
+   8. 数字
+======================================== */
+
+.numbers {
+    background: var(--white);
+}
+
+.number-grid {
+    display: grid;
+    gap: 1px;
+
+    background: var(--line);
+    border: 1px solid var(--line);
+}
+
+.number-item {
+    padding: 30px 20px;
+    text-align: center;
+    background: var(--white);
+}
+
+.number-item strong {
+    display: block;
+
+    color: var(--green);
+
+    font-size: 2.5rem;
+    line-height: 1.2;
+}
+
+.number-item strong span {
+    margin-left: 4px;
+    font-size: 1rem;
+}
+
+.number-item p {
+    margin: 8px 0 0;
+    color: var(--gray);
+    font-size: 0.85rem;
+}
+
+.note {
+    margin-top: 16px;
+    color: var(--gray);
+    font-size: 0.7rem;
+}
+
+
+/* ========================================
+   9. お客様の声
+======================================== */
+
+.voices {
+    background: #ebe8df;
+}
+
+.voice-list {
+    display: grid;
+    gap: 16px;
+}
+
+.voice-list blockquote {
+    margin: 0;
+    padding: 24px;
+
+    background: var(--white);
+
+    border-left: 4px solid var(--gold);
+
+    font-size: 1.05rem;
+}
+
+
+/* ========================================
+   10. 代表
+======================================== */
+
+.owner {
+    background: var(--white);
+}
+
+.owner-photo {
+  width: 70%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
+.owner-photo img {
+  width: 70%;
+  height: 70%;
+  display: block;
+  object-fit: cover;
+}
+
+.owner h2 {
+    color: var(--green);
+}
+
+.owner-text {
+    margin: 0 0 18px;
+}
+
+
+/* ========================================
+   11. 施工事例
+======================================== */
+
+.works {
+    background: var(--cream);
+}
+
+.work-grid {
+    display: grid;
+    gap: 20px;
+}
+
+.work-card {
+    background: var(--white);
+}
+
+.work-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    aspect-ratio: 4 / 3;
+
+    background: #d8d5cc;
+    color: #777;
+}
+
+.work-card p {
+    margin: 0;
+    padding: 14px 16px;
+    font-weight: bold;
+}
+
+
+/* ========================================
+   12. FAQ
+======================================== */
+
+.faq {
+    background: var(--white);
+}
+
+details {
+    border-top: 1px solid var(--line);
+}
+
+details:last-child {
+    border-bottom: 1px solid var(--line);
+}
+
+summary {
+    position: relative;
+
+    padding: 20px 36px 20px 0;
+
+    cursor: pointer;
+    font-weight: bold;
+    list-style: none;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+summary::after {
+    content: "+";
+
+    position: absolute;
+    right: 0;
+    top: 18px;
+
+    color: var(--gold);
+    font-size: 1.4rem;
+}
+
+details[open] summary::after {
+    content: "−";
+}
+
+details p {
+    margin: 0;
+    padding: 0 0 20px;
+    color: var(--gray);
+}
+
+
+/* ========================================
+   13. 最終CTA
+======================================== */
+
+.final-cta {
+    text-align: center;
+    background: var(--green);
+    color: var(--white);
+}
+
+.final-cta h2 {
+    font-size: 1.7rem;
+}
+
+.final-cta .free-text {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+
+/* ========================================
+   14. フッター
+======================================== */
+
+.footer {
+    padding: 50px 20px;
+    background: #1c2b21;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.footer-inner {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.footer .logo {
+    color: var(--white);
+}
+
+.footer .logo span {
+    color: var(--gold);
+}
+
+.footer p {
+    font-size: 0.8rem;
+}
+
+.copyright {
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.footer .logo {
+    font-family: "江戸勘亭流", serif;
+}
+
+/* ========================================
+   15. PC
+======================================== */
+
+@media (width >= 700px) {
+
+    .section {
+        padding: 110px 40px;
+    }
+
+    .section-inner {
+        max-width: 1000px;
+    }
+
+    h2 {
+        font-size: 2.7rem;
+    }
+
+    .hero-content {
+        padding: 120px 40px;
+    }
+
+    .hero-text {
+        font-size: 1.1rem;
+    }
+
+    .problem-list {
+        max-width: 700px;
+    }
+
+    .number-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .work-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .strength-card {
+        padding: 40px;
+    }
+
+    .owner-photo {
+        max-width: 600px;
+    }
+
+}
+
+
+/* ========================================
+   16. 大画面
+======================================== */
+
+@media (width >= 1100px) {
+
+    .hero {
+        min-height: 85vh;
+    }
+
+    .hero-content {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .hero h1 {
+        max-width: 850px;
+    }
+
+}
+
+.work-video {
+  overflow: hidden;
+}
+
+.work-video video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+@media (max-width: 700px) {
+
+    /* ファーストビュー */
+    .hero h1 {
+        font-size: clamp(2.1rem, 10vw, 3.2rem);
+        letter-spacing: 0.02em;
+    }
+
+    .header-tel {
+        white-space: nowrap;
+    }
+
+    /* お悩み */
+    .problems h3 {
+        font-size: 1.05rem;
+    }
+
+    /* 庭藤について */
+    .about-text {
+        font-size: 0.95rem;
+    }
+
+    /* 強み */
+    .strength-lead {
+        font-size: 1.15rem;
+    }
+
+    /* 店主の言葉 */
+    .owner-quote {
+        font-size: 1.25rem;
+    }
+
+    /* 最後のCTA */
+    .final-cta p {
+        font-size: 0.95rem;
+    }
+}
+===== script.js =====
